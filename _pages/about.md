@@ -29,8 +29,11 @@ PhD Candidate in Biochemistry at CUNY | Computational Biologist
 📊 Currently, I am engaged in several exciting projects:
 
 Integrative Multi-Omics for Alzheimer's Disease: Developing predictive models to identify AD biomarkers by integrating genomic, transcriptomic, and other omics data.
+
 Personalized Biomedical Knowledge Graphs for Drug Repurposing: Utilizing large language models to innovate drug repurposing strategies, enhancing targeted therapeutic interventions.
+
 Precision Medicine Initiatives: Harnessing machine learning to dissect and interpret complex datasets, aiming to translate these insights into clinical applications.
+
 
 👥 Open to collaborations that push the boundaries of bioinformatics and personalized medicine. I am particularly interested in projects that utilize AI to address pressing challenges in healthcare.
 
